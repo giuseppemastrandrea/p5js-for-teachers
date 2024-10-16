@@ -42,9 +42,9 @@ UMC offre un percorso di apprendimento graduale, che aumenta la fiducia degli st
 
 **Link:**
 
-* [Esempio di sketch "Use"](link1)
-* [Esempio di sketch "Modify"](link2)
-* [Esempio di sketch "Create"](link3)
+* [Esempio di sketch "Use"](https://editor.p5js.org/giumast/sketches/VWZe6XNbh)
+* [Esempio di sketch "Modify"](https://editor.p5js.org/giumast/sketches/SdRAq6PsU)
+* [Esempio di sketch "Create"](https://editor.p5js.org/giumast/sketches/LQ87WlAJF)
 
 ## Use Case #2 - Creazione di pattern
 
@@ -56,13 +56,14 @@ UMC offre un percorso di apprendimento graduale, che aumenta la fiducia degli st
 
 **Link:**
 
-* [Esempio di sketch "Use"](link4)
-* [Esempio di sketch "Modify"](link5)
-* [Esempio di sketch "Create"](link6)
+* [Esempio di sketch "Use"](https://editor.p5js.org/giumast/sketches/-rnR0nNJd)
+* [Esempio di sketch "Modify"](https://editor.p5js.org/giumast/sketches/oo85JN3PE)
+* [Esempio di sketch "Create" con 10PRINT](https://editor.p5js.org/giumast/sketches/163lg-bHO)
+* [Esempio di sketch "Create" con Truchet Tiles](https://editor.p5js.org/giumast/sketches/ZP9BsIrAUa)
 
-## Use Case #3 - Trigonometria
+## Use Case #3 - Coordinate polari
 
-**Obiettivo:** Visualizzare concetti trigonometrici.
+**Obiettivo:** Applicare concetti matematici a visual.
 
 * **Use:**  Osservare come "riempire" il canvas con forme influenzate da funzioni trigonometriche.
 * **Modify:**  Modificare parametri per generare diverse forme trigonometriche.
@@ -70,9 +71,9 @@ UMC offre un percorso di apprendimento graduale, che aumenta la fiducia degli st
 
 **Link:**
 
-* [Esempio di sketch "Use"](link7)
-* [Esempio di sketch "Modify"](link8)
-* [Esempio di sketch "Create"](link9)
+* [Esempio di sketch "Use"](https://editor.p5js.org/giumast/sketches/-x-kPoU5E)
+* [Esempio di sketch "Modify"](https://editor.p5js.org/giumast/sketches/NvYm-k6A5u)
+* [Esempio di sketch "Create"](https://editor.p5js.org/giumast/sketches/ScZqYxxE2)
 
 ## Showcase: Fisica dei vettori
 
@@ -84,9 +85,9 @@ UMC offre un percorso di apprendimento graduale, che aumenta la fiducia degli st
 
 **Link:**
 
-* [Esempio di sketch "Use"](link10)
-* [Esempio di sketch "Modify"](link11)
-* [Esempio di sketch "Create"](link12)
+* [Esempio di sketch "Use"](https://editor.p5js.org/giumast/sketches/KJ3uC4y-z)
+* [Esempio di sketch "Modify"](https://editor.p5js.org/giumast/sketches/8GJNEMt6W)
+* [Esempio di sketch "Create"](https://editor.p5js.org/giumast/sketches/3aEFlyiva)
 
 ## Risorse aggiuntive
 
