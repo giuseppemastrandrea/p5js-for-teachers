@@ -99,5 +99,5 @@ UMC offre un percorso di apprendimento graduale, che aumenta la fiducia degli st
 
 * [Code Bubbles](giumast.substack.com)
 * [Substack](giu.mast)
-* [LinkedIn](in Giuseppe Mastrandrea)
-* [Instagram](f Giu Mast)
+* [LinkedIn](https://www.linkedin.com/in/giuseppe-mastrandrea-43008578/)
+* [Instagram](https://www.facebook.com/giu.mast/)
